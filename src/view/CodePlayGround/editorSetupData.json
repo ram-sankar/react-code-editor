@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "language": "javaScript",
+        "extension": "js",
+        "defaultText": "function onLoad(editor) {\n\tconsole.log('This is a sample text');\n}"
+    },
+    {
+        "id": 2,
+        "language": "HTML",
+        "extension": "html",
+        "defaultText": "<html>\n\t<body>\n\t\t<h1>hello world</h1>\n\t</body>\n</html>"
+    }
+]

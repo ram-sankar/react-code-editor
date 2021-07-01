@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    height: 100vh;
+}
+.leftRight {
+    height: 100vh;
+}
+.topBottom {
+    flex-direction: column;
+    width: 100% !important;
+}
+.outputPanel {
+    flex: 1;
+}
+.title {
+    flex-grow: 1;
+}
+.run {
+    flex-grow: 1;
+}
+.runButton {
+    color: rgb(255 255 255);
+    background-color: rgb(25 25 112) !important;
+}
+.appbar {
+    background-color: rgb(255 99 71) !important;
+    color: rgb(255 255 255);
+}
+.titleContent {
+    display: flex;
+}
+.menuIcon {
+    margin-top: 5px !important;
+    margin-left: 10px;
+}
+.languageDropdwon {
+    background: rgb(250 235 215);
+    height: 35px;
+    width: 150px;
+    margin-left: 10px;
+}
